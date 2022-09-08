@@ -11,23 +11,14 @@ let pendaftar = JSON.parse(fs.readFileSync('./database/user.json'))
 
 exports.menuall = (sender, prefix, pushname, ucapanWaktu, tanggal, jam, isOwner) => {
 return `*OTHERS MENU*
-• ${prefix}simi
 • ${prefix}getpp
 • ${prefix}rules
 • ${prefix}stats
 • ${prefix}listgc
 • ${prefix}listpc
 • ${prefix}owner
-• ${prefix}script
-• ${prefix}server
 • ${prefix}runtime
 • ${prefix}dashboard
-
-*ENCRYPT MENU*
-• ${prefix}enc
-• ${prefix}obfus
-• ${prefix}encrypt
-• ${prefix}obfuscator
 
 *STORE MENU*
 • ${prefix}list
@@ -143,10 +134,6 @@ return `*OTHERS MENU*
 • ${prefix}toimg
 • ${prefix}emojimix
 • ${prefix}emojimix2
-• ${prefix}base32
-• ${prefix}base64
-• ${prefix}debase32
-• ${prefix}debase64
 
 *DOWNLOADER*
 • ${prefix}play
@@ -195,31 +182,24 @@ return `*OTHERS MENU*
 • ${prefix}discordblue
 • ${prefix}discordblack
 
-*EXECUTE*
-• $
-• >
-• x`
+*THANKS TO*
+• ALLAH SWT
+• NETHERCRAFT TEAM`
 }
 
 exports.textprem  = (sender, prefix) => {
-return `Jika kamu ingin menjadi Member Premium, kamu cukup membayar 
-Rp5.000 untuk 1 Minggu
-Rp20.000 untuk 1 Bulan 
-dan jika ingin menjadi Member Premium Permanen kamu hanya membayar Rp50.000. Jika berminat silahkan chat Owner Bot, ketik ${prefix}owner
+return `Jika ingin menjadi Member Premium Permanen kamu hanya membayar Rp5.000. Jika berminat silahkan chat Owner Bot, ketik ${prefix}owner
 
 *Payment :* 
-Dana/Qris/Ovo`
+Dana/Gopay/Ovo/Pulsa`
 }
 
 exports.textdonasi = (sender, prefix) => {
 return `*DONASI BOT*
 
-*E-walet Monay :*
-➭ Dana : 0857-8900-4732
-➭ Ovo : 0857-8900-4732
-➭ Gopay : 08xxxxxxxxx
-➭ Pulsa : 0857-8900-4732
-    
-*Qris All Payment :*
-https://telegra.ph/file/d015def9028eb1c0a156b.jpg`
+*E-walet Money :*
+➭ Dana : 0812-1810-0935
+➭ Ovo : 0812-1810-0935
+➭ Gopay : 0812-1810-0935
+➭ Pulsa : 0812-1810-0935 (Fee 5k)
 }
