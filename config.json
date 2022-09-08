@@ -1,8 +1,8 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
-    "botName": "Neobot",
-    "footer": "© BOTMD | 2022", 
+    "ownerNumber": "6281218100935@s.whatsapp.net", 
+    "ownerName": "Fumiko Official", 
+    "botName": "Fumiko-Botz",
+    "footer": "© Fumiko-Botz", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
@@ -11,7 +11,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Lexxy Official"
+        "packname": "© Fumiko",
+        "author": "Fumiko-Botz"
     }
 }
