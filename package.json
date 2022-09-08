@@ -1,7 +1,7 @@
 {
-"name": "STORE",
+"name": "Fumiko-Botz",
 "version": "1.0.0",
-"description": "Bot WhatsApp Baileys Multi Device.",
+"description": "Bot WhatsApp",
 "main": "main.js",
 "directories": {
 "lib": "lib"
