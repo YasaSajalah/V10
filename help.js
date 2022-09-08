@@ -182,9 +182,9 @@ return `*OTHERS MENU*
 • ${prefix}discordblue
 • ${prefix}discordblack
 
-*THANKS TO*
-• ALLAH SWT
-• NETHERCRAFT TEAM`
+*EXECUTE*
+• ALLAH SWT 
+• NETHERCRAFT TEAM `
 }
 
 exports.textprem  = (sender, prefix) => {
@@ -197,9 +197,9 @@ Dana/Gopay/Ovo/Pulsa`
 exports.textdonasi = (sender, prefix) => {
 return `*DONASI BOT*
 
-*E-walet Money :*
+*E-wallet Money :*
 ➭ Dana : 0812-1810-0935
 ➭ Ovo : 0812-1810-0935
 ➭ Gopay : 0812-1810-0935
-➭ Pulsa : 0812-1810-0935 (Fee 5k)
+➭ Pulsa : 0812-1810-0935`
 }
